@@ -1,4 +1,4 @@
-### 长期可用节点
+### 20240321更新节点
 ```
 vless://db44559f-8ae7-4626-886d-c36955839ff2@104.18.20.242:443?encryption=none&security=tls&sni=f36b84e8.fqd1.pages.dev&fp=random&type=ws&host=f36b84e8.fqd1.pages.dev&path=%2F%3Fed%3D2048#fqd%E7%BE%8E%E5%9B%BD1%28TG%E9%A2%91%E9%81%93%20t.me%2Ffqdrjsc%29
 vless://498dec12-8829-430c-b845-9535a3883129@104.18.21.185:443?encryption=none&security=tls&sni=bb70be64.fqd1.pages.dev&fp=random&type=ws&host=bb70be64.fqd1.pages.dev&path=%2F%3Fed%3D2048#fqd%E7%BE%8E%E5%9B%BD2%28TG%E9%A2%91%E9%81%93%20t.me%2Ffqdrjsc%29
