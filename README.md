@@ -1,3 +1,5 @@
+### [cf在线ip](https://github.com/ymyuuu/IPDB/blob/main/bestcf.txt) 
+
 ### vless+wireguard节点
 ```
 vless://2ab944d1-dae3-4bb9-a483-3a5ec3b1f635@162.159.129.98:443?encryption=none&security=tls&sni=5312466d.fqd.pages.dev&fp=randomized&type=ws&host=5312466d.fqd.pages.dev&path=%2F%3Fed%3D2048#fqd%E7%BE%8E%E5%9B%BD34%28TG%E9%A2%91%E9%81%93%20t.me%2Ffqdrjsc%29
